@@ -43,6 +43,6 @@ class SimulationWindow(Tk):
 
     
 
-print("Tommy made this lol")
+print("Tommy made this ol")
 window=SimulationWindow()
 window.mainloop()
